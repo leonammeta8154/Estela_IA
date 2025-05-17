@@ -3,6 +3,4 @@
 
 Este projeto foi desenvolvido durante a Imersão IA 3ª Edição da Alura, demonstrando o poder da inteligência artificial em democratizar o acesso ao planejamento de negócios.
 
-Imersão IA 3ª Edição - Alura
-
 ![Image Alt]( https://github.com/leonammeta8154/Estela_IA/blob/4b13b0386bc8ac299a834f5cb30e30ff1935f59d/imagens/Banner.png)
