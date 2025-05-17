@@ -1,5 +1,7 @@
 # Estela_IA
-Estela: Sua IA guia para o 1º negócio feminino no Brasil! 🌟 Ideias, plano fácil, legalização, finanças e marketing digital. Empoderando mulheres a brilhar no empreendedorismo! ✨
+**Estela é uma assistente virtual inovadora desenvolvida para guiar mulheres no processo de iniciar seus próprios negócios 🌟.** Através de uma interação intuitiva, a Estela coleta informações cruciais e **gera um plano de negócios estruturado**, oferecendo um roteiro claro para dar os primeiros passos no mundo do empreendedorismo. Nosso objetivo é empoderar mulheres, fornecendo as ferramentas e o conhecimento necessário para transformar suas ideias em negócios de sucesso.✨
+
+Este projeto foi desenvolvido durante a Imersão IA 3ª Edição da Alura, demonstrando o poder da inteligência artificial em democratizar o acesso ao planejamento de negócios.
 
 Imersão IA 3ª Edição - Alura
 
