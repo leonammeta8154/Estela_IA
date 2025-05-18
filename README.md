@@ -16,9 +16,9 @@ No cenário dinâmico do empreendedorismo brasileiro, muitas mulheres talentosas
 
 ---
 
-## 💡 O que o Estela faz?
+## 💡 O que a Estela faz?
 
-Através de uma sequência de agentes autônomos baseados em IA, **Estela** entrega um plano personalizado de ação com base no perfil da usuária. Aqui está como ela pode ajuda:
+Através de uma sequência de agentes autônomos baseados em IA, **Estela** entrega um plano personalizado de ação com base no perfil da usuária. Veja como ela pode ajudar:
 
 ### ✅ Análise de Tendências
 
