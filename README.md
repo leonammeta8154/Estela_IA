@@ -1,7 +1,8 @@
 # Estela_IA
 **Estela é uma assistente virtual inovadora desenvolvida para guiar mulheres no processo de iniciar seus próprios negócios 🌟.** Através de uma interação intuitiva, a Estela coleta informações cruciais e **gera um plano de negócios estruturado**, oferecendo um roteiro claro para dar os primeiros passos no mundo do empreendedorismo. Nosso objetivo é empoderar mulheres, fornecendo as ferramentas e o conhecimento necessário para transformar suas ideias em negócios de sucesso.✨
 
-🗳️ Se você gostou do projeto: vote, comente e compartilhe!
+🗳️✨ Se você gostou do projeto: vote, comente e compartilhe!
+
 Seu apoio é essencial para que essa iniciativa cresça, alcance ainda mais pessoas e continue transformando a jornada de futuras empreendedoras por todo o Brasil.
 
 🙏 Obrigada por visualizar, testar e acreditar neste projeto.
